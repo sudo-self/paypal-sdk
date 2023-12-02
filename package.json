@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@paypal/paypal-js": "^7.1.1"
+  }
+}
